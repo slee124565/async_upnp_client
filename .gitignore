@@ -60,3 +60,4 @@ share/*
 prof/
 /.mypy_cache/
 coverage-py*.xml
+.DS_Store
